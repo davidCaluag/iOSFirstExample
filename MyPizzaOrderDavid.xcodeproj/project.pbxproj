@@ -11,6 +11,7 @@
 		676113422CA5CD3E00EB681C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676113412CA5CD3E00EB681C /* ContentView.swift */; };
 		676113442CA5CD4300EB681C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 676113432CA5CD4300EB681C /* Assets.xcassets */; };
 		676113472CA5CD4300EB681C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 676113462CA5CD4300EB681C /* Preview Assets.xcassets */; };
+		6761134E2CA5CD6D00EB681C /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6761134D2CA5CD6D00EB681C /* ResultView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		676113412CA5CD3E00EB681C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		676113432CA5CD4300EB681C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		676113462CA5CD4300EB681C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6761134D2CA5CD6D00EB681C /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		6761134F2CA5CDE300EB681C /* Paragraph.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Paragraph.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +58,8 @@
 				676113412CA5CD3E00EB681C /* ContentView.swift */,
 				676113432CA5CD4300EB681C /* Assets.xcassets */,
 				676113452CA5CD4300EB681C /* Preview Content */,
+				6761134D2CA5CD6D00EB681C /* ResultView.swift */,
+				6761134F2CA5CDE300EB681C /* Paragraph.md */,
 			);
 			path = MyPizzaOrderDavid;
 			sourceTree = "<group>";
@@ -139,6 +144,7 @@
 			files = (
 				676113422CA5CD3E00EB681C /* ContentView.swift in Sources */,
 				676113402CA5CD3E00EB681C /* MyPizzaOrderDavidApp.swift in Sources */,
+				6761134E2CA5CD6D00EB681C /* ResultView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
